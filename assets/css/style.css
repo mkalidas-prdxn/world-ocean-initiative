@@ -869,3 +869,93 @@ footer::before{
   background-color: #d2dddf;
 }
 
+
+  /* ==========================================================================
+   5. Footer
+   ========================================================================== */
+  
+   .top{
+    /* margin-top: 95px; */
+      background-color: #60b2dd;
+    }
+    .top h6{
+      padding-top: 60px;
+      margin-left: 400px;
+      color: white;
+      font-size: 11px;
+    
+    
+    
+    }
+    .top  .email{
+      /* padding-left: 30px;
+      padding-right: 348px; */
+      padding: 23px 278px 23px 30px;
+      /* margin-left: 400px;
+      margin-top: 5px; */
+      margin: 5px auto auto 400px;
+      border: hidden;
+      font-size: 15px;
+      font-weight: 900;
+     
+    
+      background-color: #87ccf5;
+    }
+    .top button{
+      
+      /* padding-top: 13px;
+      padding-bottom: 26px; */
+      padding: 11px 20px 22px 17px;
+      margin-left: -5px;
+      /* margin-top: -400px; */
+      margin-bottom: 60px;
+      border: hidden;
+      color: #5e6668;
+      font-size: 30px;
+    }
+    
+    
+    /* BOOTOM FOOOTER */
+    /* .bottom-footer h6{
+      display: inline;
+    } */
+    .bottom-footer{
+    
+      background-color: #2e2e2e;
+      height: 115px;
+    }
+    .bottom-footer h6{
+      margin-left: 25px;
+    margin-top: 50px;
+    
+    display: inline-block;
+    
+    color: #797979;
+    font-size: 18px;
+    }
+    .bottom-footer li{
+      display: inline-block;
+    }
+    .bottom-footer ul{
+      margin-left: 640px;
+      display: inline;
+      
+    }
+    .bottom-footer .fab{
+    
+      margin: 0 21px;
+      margin-top: 50px;
+      color: #7b7b7b;
+      font-size: 20px;
+    }
+    .bottom-footer .contact{
+      padding: 15px 42px;
+      margin-left: 20px;
+      display: inline;
+    
+    
+      background-color: #7b7b7b;
+      color: antiquewhite;
+      text-decoration: none;
+    
+    }
